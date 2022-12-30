@@ -3,4 +3,3 @@ pipeline{
     dockerfile true
   }
 }
-}
